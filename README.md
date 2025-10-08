@@ -1,5 +1,6 @@
 # MyTableJS
-Vanilla JS filtarable table plugin with multi-column filtering, JSON data addition, on-the-fly data update and pagination. Uses modern JS Map() for instant filtering and data update and DocumentFragment() for faster rendering
+Vanilla JS filtarable table plugin with multi-column filtering, JSON data addition, on-the-fly data update and pagination. Uses modern JS Map() for instant filtering and data update and DocumentFragment() for faster rendering.
+No dependencies! Around 5kb minified and even less gzipped!
 ## HowTo
 This is quick example, more option explanation will be added later
 ```
